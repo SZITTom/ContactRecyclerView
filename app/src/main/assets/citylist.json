@@ -1,0 +1,902 @@
+{
+  "City": {
+    "CityList": [
+      {
+        "Name": "北京",
+        "IsHot": "1",
+        "ShotPY": "BJ"
+      },
+      {
+        "Name": "长春",
+        "IsHot": "1",
+        "ShotPY": "CC"
+      },
+      {
+        "Name": "长沙",
+        "IsHot": "1",
+        "ShotPY": "CS"
+      },
+      {
+        "Name": "成都",
+        "IsHot": "1",
+        "ShotPY": "CD"
+      },
+      {
+        "Name": "重庆",
+        "IsHot": "1",
+        "ShotPY": "CQ"
+      },
+      {
+        "Name": "大连",
+        "IsHot": "1",
+        "ShotPY": "DL"
+      },
+      {
+        "Name": "福州",
+        "IsHot": "1",
+        "ShotPY": "FZ"
+      },
+      {
+        "Name": "广州",
+        "IsHot": "1",
+        "ShotPY": "GZ"
+      },
+      {
+        "Name": "贵阳",
+        "IsHot": "1",
+        "ShotPY": "GY"
+      },
+      {
+        "Name": "桂林",
+        "IsHot": "1",
+        "ShotPY": "GL"
+      },
+      {
+        "Name": "达州",
+        "IsHot": "0",
+        "ShotPY": "DAX"
+      },
+      {
+        "Name": "额济纳旗",
+        "IsHot": "0",
+        "ShotPY": "EJN"
+      },
+      {
+        "Name": "阿拉善左旗",
+        "IsHot": "0",
+        "ShotPY": "axf"
+      },
+      {
+        "Name": "安顺",
+        "IsHot": "0",
+        "ShotPY": "AVA"
+      },
+      {
+        "Name": "毕节",
+        "IsHot": "0",
+        "ShotPY": "BFJ"
+      },
+      {
+        "Name": "阿克苏",
+        "IsHot": "0",
+        "ShotPY": "AKS"
+      },
+      {
+        "Name": "安康",
+        "IsHot": "0",
+        "ShotPY": "AK"
+      },
+      {
+        "Name": "富蕴",
+        "IsHot": "0",
+        "ShotPY": "FY"
+      },
+      {
+        "Name": "包头",
+        "IsHot": "0",
+        "ShotPY": "BT"
+      },
+      {
+        "Name": "蚌埠",
+        "IsHot": "0",
+        "ShotPY": "BB"
+      },
+      {
+        "Name": "朝阳",
+        "IsHot": "0",
+        "ShotPY": "CY"
+      },
+      {
+        "Name": "赤峰",
+        "IsHot": "0",
+        "ShotPY": "CF"
+      },
+      {
+        "Name": "长海",
+        "IsHot": "0",
+        "ShotPY": "CH"
+      },
+      {
+        "Name": "常州",
+        "IsHot": "0",
+        "ShotPY": "CZ"
+      },
+      {
+        "Name": "富山",
+        "IsHot": "0",
+        "ShotPY": "FS"
+      },
+      {
+        "Name": "迪庆",
+        "IsHot": "0",
+        "ShotPY": "DQ"
+      },
+      {
+        "Name": "鞍山",
+        "IsHot": "0",
+        "ShotPY": "AS"
+      },
+      {
+        "Name": "安庆",
+        "IsHot": "0",
+        "ShotPY": "AQ"
+      },
+      {
+        "Name": "北海",
+        "IsHot": "0",
+        "ShotPY": "BH"
+      },
+      {
+        "Name": "潮州",
+        "IsHot": "0",
+        "ShotPY": "CZ"
+      },
+      {
+        "Name": "鄂尔多斯",
+        "IsHot": "0",
+        "ShotPY": "EEDS"
+      },
+      {
+        "Name": "恩施",
+        "IsHot": "0",
+        "ShotPY": "ES"
+      },
+      {
+        "Name": "佛山",
+        "IsHot": "0",
+        "ShotPY": "FS"
+      },
+      {
+        "Name": "格尔木",
+        "IsHot": "0",
+        "ShotPY": "GEM"
+      },
+      {
+        "Name": "长安",
+        "IsHot": "0",
+        "ShotPY": "CA"
+      },
+      {
+        "Name": "赣州",
+        "IsHot": "0",
+        "ShotPY": "GZ"
+      },
+      {
+        "Name": "大理",
+        "IsHot": "0",
+        "ShotPY": "DL"
+      },
+      {
+        "Name": "丹东",
+        "IsHot": "0",
+        "ShotPY": "DD"
+      },
+      {
+        "Name": "阿勒泰",
+        "IsHot": "0",
+        "ShotPY": "ALT"
+      },
+      {
+        "Name": "长治",
+        "IsHot": "0",
+        "ShotPY": "CZ"
+      },
+      {
+        "Name": "巴彦淖尔",
+        "IsHot": "0",
+        "ShotPY": "BYKE"
+      },
+      {
+        "Name": "北京南苑",
+        "IsHot": "0",
+        "ShotPY": "BJNY"
+      },
+      {
+        "Name": "东营",
+        "IsHot": "0",
+        "ShotPY": "DY"
+      },
+      {
+        "Name": "阜阳",
+        "IsHot": "0",
+        "ShotPY": "FY"
+      },
+      {
+        "Name": "大庆",
+        "IsHot": "0",
+        "ShotPY": "DQ"
+      },
+      {
+        "Name": "长白山",
+        "IsHot": "0",
+        "ShotPY": "CBS"
+      },
+      {
+        "Name": "二连浩特",
+        "IsHot": "0",
+        "ShotPY": "elhtSWS"
+      },
+      {
+        "Name": "固原",
+        "IsHot": "0",
+        "ShotPY": "GY"
+      },
+      {
+        "Name": "博乐",
+        "IsHot": "0",
+        "ShotPY": "BL"
+      },
+      {
+        "Name": "广元",
+        "IsHot": "0",
+        "ShotPY": "GY"
+      },
+      {
+        "Name": "百色",
+        "IsHot": "0",
+        "ShotPY": "BS"
+      },
+      {
+        "Name": "阿里昆莎",
+        "IsHot": "0",
+        "ShotPY": "ALKS"
+      },
+      {
+        "Name": "庆阳",
+        "IsHot": "0",
+        "ShotPY": "IQN"
+      },
+      {
+        "Name": "哈尔滨",
+        "IsHot": "1",
+        "ShotPY": "HEB"
+      },
+      {
+        "Name": "海口",
+        "IsHot": "1",
+        "ShotPY": "HK"
+      },
+      {
+        "Name": "杭州",
+        "IsHot": "1",
+        "ShotPY": "HZ"
+      },
+      {
+        "Name": "合肥",
+        "IsHot": "0",
+        "ShotPY": "HF"
+      },
+      {
+        "Name": "九华山",
+        "IsHot": "0",
+        "ShotPY": "JUH"
+      },
+      {
+        "Name": "井冈山",
+        "IsHot": "0",
+        "ShotPY": "JGS"
+      },
+      {
+        "Name": "凯里",
+        "IsHot": "0",
+        "ShotPY": "KJH"
+      },
+      {
+        "Name": "丽江",
+        "IsHot": "0",
+        "ShotPY": "LJ"
+      },
+      {
+        "Name": "黄山",
+        "IsHot": "0",
+        "ShotPY": "HS"
+      },
+      {
+        "Name": "库车",
+        "IsHot": "0",
+        "ShotPY": "KC"
+      },
+      {
+        "Name": "海拉尔",
+        "IsHot": "0",
+        "ShotPY": "HLE"
+      },
+      {
+        "Name": "泸州",
+        "IsHot": "0",
+        "ShotPY": "LZ"
+      },
+      {
+        "Name": "连云港",
+        "IsHot": "0",
+        "ShotPY": "LYG"
+      },
+      {
+        "Name": "林西",
+        "IsHot": "0",
+        "ShotPY": "LX"
+      },
+      {
+        "Name": "临沂",
+        "IsHot": "0",
+        "ShotPY": "LY"
+      },
+      {
+        "Name": "和田",
+        "IsHot": "0",
+        "ShotPY": "HT"
+      },
+      {
+        "Name": "酒泉",
+        "IsHot": "0",
+        "ShotPY": "JQ"
+      },
+      {
+        "Name": "景德镇",
+        "IsHot": "0",
+        "ShotPY": "JDZ"
+      },
+      {
+        "Name": "惠州",
+        "IsHot": "0",
+        "ShotPY": "HZ"
+      },
+      {
+        "Name": "嘉峪关",
+        "IsHot": "0",
+        "ShotPY": "JYG"
+      },
+      {
+        "Name": "汉中",
+        "IsHot": "0",
+        "ShotPY": "HZ"
+      },
+      {
+        "Name": "济宁",
+        "IsHot": "0",
+        "ShotPY": "JN"
+      },
+      {
+        "Name": "克拉玛依",
+        "IsHot": "0",
+        "ShotPY": "KLMY"
+      },
+      {
+        "Name": "吉林",
+        "IsHot": "0",
+        "ShotPY": "JL"
+      },
+      {
+        "Name": "梁平",
+        "IsHot": "0",
+        "ShotPY": "LP"
+      },
+      {
+        "Name": "呼和浩特",
+        "IsHot": "0",
+        "ShotPY": "HHHT"
+      },
+      {
+        "Name": "喀什",
+        "IsHot": "0",
+        "ShotPY": "KS"
+      },
+      {
+        "Name": "黑河",
+        "IsHot": "0",
+        "ShotPY": "HH"
+      },
+      {
+        "Name": "柳州",
+        "IsHot": "0",
+        "ShotPY": "LZ"
+      },
+      {
+        "Name": "加格达奇",
+        "IsHot": "0",
+        "ShotPY": "JGDQ"
+      },
+      {
+        "Name": "台州",
+        "IsHot": "0",
+        "ShotPY": "HY"
+      },
+      {
+        "Name": "九寨沟",
+        "IsHot": "0",
+        "ShotPY": "JZG"
+      },
+      {
+        "Name": "邯郸",
+        "IsHot": "0",
+        "ShotPY": "HD"
+      },
+      {
+        "Name": "鸡西",
+        "IsHot": "0",
+        "ShotPY": "JX"
+      },
+      {
+        "Name": "喀纳斯",
+        "IsHot": "0",
+        "ShotPY": "KNS"
+      },
+      {
+        "Name": "淮安",
+        "IsHot": "0",
+        "ShotPY": "HA"
+      },
+      {
+        "Name": "龙岩",
+        "IsHot": "0",
+        "ShotPY": "LY"
+      },
+      {
+        "Name": "伊春",
+        "IsHot": "0",
+        "ShotPY": "LD"
+      },
+      {
+        "Name": "永州",
+        "IsHot": "0",
+        "ShotPY": "LL"
+      },
+      {
+        "Name": "上海",
+        "IsHot": "1",
+        "ShotPY": "SH"
+      },
+      {
+        "Name": "南京",
+        "IsHot": "1",
+        "ShotPY": "NJ"
+      },
+      {
+        "Name": "南宁",
+        "IsHot": "1",
+        "ShotPY": "NN"
+      },
+      {
+        "Name": "宁波",
+        "IsHot": "1",
+        "ShotPY": "NB"
+      },
+      {
+        "Name": "青岛",
+        "IsHot": "1",
+        "ShotPY": "QD"
+      },
+      {
+        "Name": "深圳",
+        "": "SZX",
+        "IsHot": "1",
+        "ShotPY": "SZ"
+      },
+      {
+        "Name": "沈阳",
+        "IsHot": "1",
+        "ShotPY": "SY"
+      },
+      {
+        "Name": "太原",
+        "IsHot": "1",
+        "ShotPY": "TY"
+      },
+      {
+        "Name": "天津",
+        "IsHot": "1",
+        "ShotPY": "TJ"
+      },
+      {
+        "Name": "普洱",
+        "IsHot": "0",
+        "ShotPY": "PE"
+      },
+      {
+        "Name": "揭阳",
+        "IsHot": "0",
+        "ShotPY": "ST"
+      },
+      {
+        "Name": "塔城",
+        "IsHot": "0",
+        "ShotPY": "TC"
+      },
+      {
+        "Name": "南昌",
+        "IsHot": "0",
+        "ShotPY": "NC"
+      },
+      {
+        "Name": "且末",
+        "IsHot": "0",
+        "ShotPY": "QM"
+      },
+      {
+        "Name": "牡丹江",
+        "IsHot": "0",
+        "ShotPY": "MDJ"
+      },
+      {
+        "Name": "上海浦东",
+        "IsHot": "0",
+        "ShotPY": "SHPD"
+      },
+      {
+        "Name": "思茅",
+        "IsHot": "0",
+        "ShotPY": "SM"
+      },
+      {
+        "Name": "南阳",
+        "IsHot": "0",
+        "ShotPY": "NY"
+      },
+      {
+        "Name": "梅县",
+        "IsHot": "0",
+        "ShotPY": "MX"
+      },
+      {
+        "Name": "齐齐哈尔",
+        "IsHot": "0",
+        "ShotPY": "QQHE"
+      },
+      {
+        "Name": "南充",
+        "IsHot": "0",
+        "ShotPY": "NC"
+      },
+      {
+        "Name": "通化",
+        "IsHot": "0",
+        "ShotPY": "TH"
+      },
+      {
+        "Name": "通辽",
+        "IsHot": "0",
+        "ShotPY": "TL"
+      },
+      {
+        "Name": "衢州",
+        "IsHot": "0",
+        "ShotPY": "QZ"
+      },
+      {
+        "Name": "鄯善",
+        "IsHot": "0",
+        "ShotPY": "SS"
+      },
+      {
+        "Name": "苏州",
+        "IsHot": "0",
+        "ShotPY": "SZ"
+      },
+      {
+        "Name": "绵阳",
+        "IsHot": "0",
+        "ShotPY": "MY"
+      },
+      {
+        "Name": "南通",
+        "IsHot": "0",
+        "ShotPY": "NT"
+      },
+      {
+        "Name": "黔江",
+        "IsHot": "0",
+        "ShotPY": "qj"
+      },
+      {
+        "Name": "秦皇岛",
+        "IsHot": "0",
+        "ShotPY": "QHD"
+      },
+      {
+        "Name": "唐山",
+        "IsHot": "0",
+        "ShotPY": "TS"
+      },
+      {
+        "Name": "芒市",
+        "IsHot": "0",
+        "ShotPY": "MS"
+      },
+      {
+        "Name": "铜仁",
+        "IsHot": "0",
+        "ShotPY": "TR"
+      },
+      {
+        "Name": "漠河",
+        "IsHot": "0",
+        "ShotPY": "MH"
+      },
+      {
+        "Name": "温州",
+        "IsHot": "1",
+        "ShotPY": "WZ"
+      },
+      {
+        "Name": "武汉",
+        "IsHot": "1",
+        "ShotPY": "WH"
+      },
+      {
+        "Name": "西安",
+        "IsHot": "1",
+        "ShotPY": "XA"
+      },
+      {
+        "Name": "厦门",
+        "IsHot": "1",
+        "ShotPY": "XM"
+      },
+      {
+        "Name": "扬州",
+        "IsHot": "0",
+        "ShotPY": "yz"
+      },
+      {
+        "Name": "襄阳",
+        "IsHot": "0",
+        "ShotPY": "XF"
+      },
+      {
+        "Name": "兴宁",
+        "IsHot": "0",
+        "ShotPY": "XN"
+      },
+      {
+        "Name": "西昌",
+        "IsHot": "0",
+        "ShotPY": "XC"
+      },
+      {
+        "Name": "西宁",
+        "IsHot": "0",
+        "ShotPY": "XN"
+      },
+      {
+        "Name": "榆林",
+        "IsHot": "0",
+        "ShotPY": "YL"
+      },
+      {
+        "Name": "武夷山",
+        "IsHot": "0",
+        "ShotPY": "WYS"
+      },
+      {
+        "Name": "宜昌",
+        "IsHot": "0",
+        "ShotPY": "YC"
+      },
+      {
+        "Name": "邢台",
+        "IsHot": "0",
+        "ShotPY": "XT"
+      },
+      {
+        "Name": "义乌",
+        "IsHot": "0",
+        "ShotPY": "YW"
+      },
+      {
+        "Name": "芜湖",
+        "IsHot": "0",
+        "ShotPY": "WH"
+      },
+      {
+        "Name": "锡林浩特",
+        "IsHot": "0",
+        "ShotPY": "XLHT"
+      },
+      {
+        "Name": "潍坊",
+        "IsHot": "0",
+        "ShotPY": "WF"
+      },
+      {
+        "Name": "元谋",
+        "IsHot": "0",
+        "ShotPY": "YM"
+      },
+      {
+        "Name": "银川",
+        "IsHot": "0",
+        "ShotPY": "YC"
+      },
+      {
+        "Name": "宜宾",
+        "IsHot": "0",
+        "ShotPY": "YB"
+      },
+      {
+        "Name": "伊宁",
+        "IsHot": "0",
+        "ShotPY": "YN"
+      },
+      {
+        "Name": "仙台",
+        "IsHot": "0",
+        "ShotPY": "XT"
+      },
+      {
+        "Name": "梧州",
+        "IsHot": "0",
+        "ShotPY": "WZ"
+      },
+      {
+        "Name": "延安",
+        "IsHot": "0",
+        "ShotPY": "YA"
+      },
+      {
+        "Name": "西双版纳",
+        "IsHot": "0",
+        "ShotPY": "XSBN"
+      },
+      {
+        "Name": "威海",
+        "IsHot": "0",
+        "ShotPY": "WH"
+      },
+      {
+        "Name": "万州",
+        "IsHot": "0",
+        "ShotPY": "WZ"
+      },
+      {
+        "Name": "延吉",
+        "IsHot": "0",
+        "ShotPY": "YJ"
+      },
+      {
+        "Name": "兴城",
+        "IsHot": "0",
+        "ShotPY": "XC"
+      },
+      {
+        "Name": "无锡",
+        "IsHot": "0",
+        "ShotPY": "WX"
+      },
+      {
+        "Name": "盐城",
+        "IsHot": "0",
+        "ShotPY": "YC"
+      },
+      {
+        "Name": "伊兰",
+        "IsHot": "0",
+        "ShotPY": "YL"
+      },
+      {
+        "Name": "烟台",
+        "IsHot": "0",
+        "ShotPY": "YT"
+      },
+      {
+        "Name": "乌鲁木齐",
+        "IsHot": "0",
+        "ShotPY": "WLMQ"
+      },
+      {
+        "Name": "徐州",
+        "IsHot": "0",
+        "ShotPY": "XZ"
+      },
+      {
+        "Name": "运城",
+        "IsHot": "0",
+        "ShotPY": "YC"
+      },
+      {
+        "Name": "乌海",
+        "IsHot": "0",
+        "ShotPY": "WH"
+      },
+      {
+        "Name": "玉树",
+        "IsHot": "0",
+        "ShotPY": "YS"
+      },
+      {
+        "Name": "乌兰浩特",
+        "IsHot": "0",
+        "ShotPY": "WLHT"
+      },
+      {
+        "Name": "兴义",
+        "IsHot": "0",
+        "ShotPY": "XY"
+      },
+      {
+        "Name": "文山",
+        "IsHot": "0",
+        "ShotPY": "WS"
+      },
+      {
+        "Name": "宜春",
+        "IsHot": "0",
+        "ShotPY": "YC"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZD",
+        "Name": "中甸"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZH",
+        "Name": "珠海"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZJ",
+        "Name": "湛江"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZJJ",
+        "Name": "张家界"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZQZ",
+        "Name": "张家口"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZS",
+        "Name": "舟山"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZT",
+        "Name": "昭通"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZW",
+        "Name": "中卫"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZY",
+        "Name": "遵义"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZY",
+        "Name": "张掖"
+      },
+      {
+        "IsHot": "0",
+        "ShotPY": "ZZ",
+        "Name": "郑州"
+      }
+    ]
+  }
+}
